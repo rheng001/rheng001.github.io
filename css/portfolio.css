@@ -118,7 +118,8 @@
 .about {
   padding-top: 30px; }
   .about p {
-    font-size: 26px; }
+    font-size: 26px;
+    text-align: center; }
   .about h1 {
     font-size: 46px; }
 
