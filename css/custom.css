@@ -1,0 +1,8 @@
+.imgdiv {
+  /* max-height: 200px;
+  max-width: 200px; */
+  height: 200px;
+  width: 200px;
+  overflow: hidden;
+  padding: 20px;
+}
